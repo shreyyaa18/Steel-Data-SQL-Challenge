@@ -10,4 +10,4 @@ A special shoutout to [Matthew Steel](https://www.linkedin.com/in/matthew-steel-
 
 Below, you'll discover links to the challenges:
 
-[Challenge 1 - Steve's Car Showroom]
+[Challenge 1 - Steve's Car Showroom](https://github.com/shreyyaa18/Steel-Data-SQL-Challenge/blob/main/Challenge%201%20-%20Steve's%20Car%20Showroom%20Challenge/Challenge_1.sql)
